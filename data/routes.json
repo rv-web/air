@@ -1,0 +1,72 @@
+[
+  {
+    "destination": "Frankfurt",
+    "country": "Germany",
+    "duration": 105,
+    "operator": "Lufthansa",
+    "flights": [
+      {
+        "number": "LH1337",
+        "registration": "D-AIBF",
+        "delay": 17
+      },
+      {
+        "number": "LH1339",
+        "registration": "D-AIEL",
+        "delay": 30
+      }
+    ]
+  },
+  {
+    "destination": "Amsterdam",
+    "country": "Netherlands",
+    "duration": 125,
+    "operator": "KLM",
+    "flights": [
+      {
+        "number": "KL1974",
+        "registration": "PH-BXC",
+        "delay": 20
+      }
+    ]
+  },
+  {
+    "destination": "Rome",
+    "country": "Italy",
+    "duration": 110,
+    "operator": "Wizz Air",
+    "flights": [
+      {
+        "number": "W62341",
+        "registration": "HA-LVK",
+        "delay": 15
+      }
+    ]
+  },
+  {
+    "destination": "London",
+    "country": "England",
+    "duration": 100,
+    "operator": "Wizz Air",
+    "flights": [
+      {
+        "number": "W62205",
+        "registration": "HA-LTF",
+        "delay": 9
+      }
+    ]
+  },
+  {
+    "destination": "Valencia",
+    "country": "Spain",
+    "duration": 175,
+    "operator": "Ryanair",
+    "flights": [
+      {
+        "number": "FR2301",
+        "registration": "SP-RSD",
+        "delay": 13
+      }
+    ]
+  }
+]
